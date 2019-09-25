@@ -1,0 +1,2 @@
+			document.write('<div class="footer-nav"> 				<a href="index.html" title = "Vissza a főoldalra"> Főoldal </a>				<a href="kapcsolat.html" title = "Elérhetőségeink"> Kapcsolat </a>				</div>			<div class="div-rights"> 			</div>')
+

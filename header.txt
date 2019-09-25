@@ -1,0 +1,3 @@
+		document.write('	<div class="main-page"><h1><a href="index.html">Az EvolúciJó Játék! </a><br></h1></div>			<nav>				<div class="div-nav"> <a href="kikvagyunk.html" title = ""> Kik vagyunk </a> 					<a href="jatekszabalyok.html" title = "Miért jó játszani? Hogyan érdemes játszani?"> A játékról... </a>					<a href="jatekkereso.html" title = "Játékok kategóriák szerint"> Játékkereső </a>					<a href="workshop.html" title = "Tudnivalók a workshopról"> Workshop </a>					<a href="kapcsolat.html" title = "Elérhetőségeink"> Kapcsolat </a>				</div>				</nav>')
+
+
