@@ -9,7 +9,7 @@ html, body{
   max-width: 100%;
   overflow-x: hidden;
   margin: 0px;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
 
 }
 
@@ -30,9 +30,10 @@ header {
   width: 100%;
   margin-bottom: 0px;
   padding: 20px 20px 20px 20px;
-  background-color: #9ab88d;
+  background-color: #728f65;
   position: fixed;
-  box-shadow: 2px 2px #345a5c;
+/*  box-shadow: 2px 2px #345a5c;*/
+  border-bottom: solid;
 }
 
 
@@ -56,7 +57,7 @@ main{
   width: 20%;
   vertical-align: top;
   min-width: 140px;
-  background-color: #deedd8;
+  background-color: #c8edb9;
   padding: 10px 10px 0px 10px;
   padding-top: 200px;
   box-shadow: 1px 1px #345a5c;
@@ -99,12 +100,13 @@ h1{
   font-size: 70px;
   letter-spacing: 2px;
   font-weight: bold;
+  margin-bottom: 30px;
 }
 
 .main-page h1 a{  
-  color: #345a5c;
+  color: #a6fc1c;
   text-align: center;
-  text-shadow: 3px 3px 0px white;
+/*  text-shadow: 3px 3px 0px white; */
   text-decoration: none; 
 }
 
@@ -142,16 +144,18 @@ article{
 }
 
 .div-nav a{
-  background-color: #a8cc5e;
+  background-color: #b8fa4d;
   padding: 6px 12px 6px 12px;
   border-radius: 30px; 
-  border-style: none;
+  border-style: solid;
   margin: 1%;
-  box-shadow: 3px 3px;
+/*  box-shadow: 3px 3px;*/
+ text-decoration: none;
 }
 
 .div-nav a:hover{
   background-color: #d5ff80;
+ text-decoration: none;
 }
 
 
@@ -259,6 +263,16 @@ a:hover {
   font-weight: bold;
   text-decoration: none; 
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
