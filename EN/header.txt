@@ -1,0 +1,3 @@
+		document.write(' <a id="language"  href="../index.html">HU</a>	<div class="main-page"><h1><a href="index.html">Evolution is FUN!</a> </h1>      <img id="logo" src="../evolfun_logo2.png" alt="logo" >   <br></div>			<nav>				<div class="div-nav"> <a href="thegroup.html" title = "">The group</a> 					<a href="aboutgames.html" title = "Why and how to play?">About games...</a>					<a href="games.html" title = "Games sorted">Games</a>					<a href="workshop.html" title = "Everything about the workshop">Workshop</a>					<a href="contact.html" title = "Contact">Contact</a>				</div>				</nav>')
+
+
